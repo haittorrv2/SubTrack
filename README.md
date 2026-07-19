@@ -5,7 +5,7 @@ subscriptions, renewal dates and estimated spending.
 
 This is the first working version of the application.
 
-![SubTrack dashboard](screenshots/main-window.png)
+![SubTrack dashboard](screenshots/dashboard.png)
 
 ## Features
 
