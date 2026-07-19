@@ -38,3 +38,12 @@ SubTrack/
 ├── requirements.txt
 ├── fonts/
 └── screenshots/
+```
+
+## Development note
+
+This project was created with substantial assistance from AI tools.
+
+I decided the app's purpose, features and design, tested the application,
+debugged problems, organised the project structure and packaged the Windows
+release. AI was used to help generate code and explain implementation steps.
